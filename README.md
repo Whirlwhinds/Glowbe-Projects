@@ -1,2 +1,1 @@
-# glowbe-projects
-Examples for content creators on Glowbe!
+This repository contains a bunch of avatars, toys, games, pets, furniture and so forth for [Glowbe](http://www.glowbe.online/), a Flash-based virtual world, based off of the [Whirled](https://github.com/greyhavens/msoy) source code.
